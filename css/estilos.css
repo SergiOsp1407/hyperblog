@@ -57,8 +57,12 @@ body
 {
     background: white;
     padding: 1em;
+}
 
-
-
-
+#post #logo2
+{
+    padding: 1em ;
+    width: 70px;
+    vertical-align: middle;
+    margin: 10;
 }
